@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">mvp_okgo</string>
+    <string name="exit_app">再按一次退出程序</string>
+    <string name="ip">服 务 器 地 址</string>
+    <string name="connect">连 接</string>
+    <string name="ip_setting">服务器设定</string>
+    <string name="user_info">个人资料</string>
+    <string name="company_name">公司名称:</string>
+    <string name="account">用户账号:</string>
+    <string name="part">部门:</string>
+    <string name="email">电子邮箱:</string>
+    <string name="phone">联系方式:</string>
+    <string name="last_login_time">登录时间：</string>
+    <string name="log">系统日志</string>
+    <string name="bluetooth_setting">蓝牙设置</string>
+    <string name="setting">版本号</string>
+    <string name="signout">登出</string>
+    <string name="account_login">账 号</string>
+    <string name="password__login">密 码</string>
+    <string name="login">登录</string>
+    <string name="home">首页</string>
+    <string name="search">搜索</string>
+    <string name="my">个人</string>
+    <string name="change_password">更改密码</string>
+    <string name="bitian">必填</string>
+
+    <string name="ic_keyboard_arrow_right">&#xe0c7;</string>
+    <string name="ic_email">&#xe087;</string>
+    <string name="ic_add">&#xe006;</string>
+    <string name="ic_close">&#xe048;</string>
+    <string name="ic_keyboard_arrow_down">&#xe0c5;</string>
+    <string name="ic_folder">&#xe09d;</string>
+
+</resources>
